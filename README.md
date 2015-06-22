@@ -1,2 +1,16 @@
-# YoioJava
-YoioJava framework is a lightweight MVC structure of Java Web framework, based on the Http Servlet development, for the agile Web application development and simplify enterprise application development. Using YoioJava developing WEB applications, have a weak type of programming language development experience, a colleague has a powerful processing capabilities of the Java programming language, Java data model to abandon the traditional JavaBean pojos (Plain Ordinary Java Object), focusing on the WEB friendly String, key - > value data model.
+YoioJava Web Framework
+=============================
+
+[![Apache 2](http://img.shields.io/badge/license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
+![YoioJava](http://Yoio.github.io/images/yoiojava-logo-des.png)
+
+YoioJava Web Framework is a lightweight MVC structure of Java Web framework, based on the Http Servlet development.
+for the agile Web application development and simplify enterprise application development. 
+
+
+Essentials
+----------
+
+* [See the docs](http://yoio.github.io/YoioJava)
+* [Download Latest](https://github.com/Yoio/YoioJava/releases)
