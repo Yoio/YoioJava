@@ -12,5 +12,5 @@ for the agile Web application development and simplify enterprise application de
 Essentials
 ----------
 
-* [See the docs](http://yoio.github.io/YoioJava)
+* [See the docs](http://yoio.github.io)
 * [Download Latest](https://github.com/Yoio/YoioJava/releases)
